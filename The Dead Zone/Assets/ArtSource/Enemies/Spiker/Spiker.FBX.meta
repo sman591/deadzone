@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: 9aa297719c98350438e94359851d6c92
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Dummy_Attached
+    100002: Dummy_Detached
+    100004: Spike
+    100006: Spike Drone
+    100008: Spike001
+    100010: Spike002
+    100012: Spike003
+    100014: Spike004
+    100016: Spike005
+    100018: Spike006
+    100020: Spike007
+    100022: Spike008
+    100024: Spike009
+    100026: Spike_Drone_Eye
+    100028: Spike_Drone_Track
+    100030: Spike_Drone_Track001
+    100032: Spike_Drone_Track002
+    100034: Spike_Drone_Track003
+    100036: Spike_Drone_Track004
+    100038: Spike_Drone_Track005
+    100040: Spike_Drone_Track006
+    100042: Spike_Drone_Track007
+    100044: Spike_Drone_Track008
+    100046: Spike_Drone_Track009
+    100048: Spike_Drone_Track010
+    100050: //RootNode
+    400000: Dummy_Attached
+    400002: Dummy_Detached
+    400004: Spike
+    400006: Spike Drone
+    400008: Spike001
+    400010: Spike002
+    400012: Spike003
+    400014: Spike004
+    400016: Spike005
+    400018: Spike006
+    400020: Spike007
+    400022: Spike008
+    400024: Spike009
+    400026: Spike_Drone_Eye
+    400028: Spike_Drone_Track
+    400030: Spike_Drone_Track001
+    400032: Spike_Drone_Track002
+    400034: Spike_Drone_Track003
+    400036: Spike_Drone_Track004
+    400038: Spike_Drone_Track005
+    400040: Spike_Drone_Track006
+    400042: Spike_Drone_Track007
+    400044: Spike_Drone_Track008
+    400046: Spike_Drone_Track009
+    400048: Spike_Drone_Track010
+    400050: //RootNode
+    2300000: Spike
+    2300002: Spike Drone
+    2300004: Spike001
+    2300006: Spike002
+    2300008: Spike003
+    2300010: Spike004
+    2300012: Spike005
+    2300014: Spike006
+    2300016: Spike007
+    2300018: Spike008
+    2300020: Spike009
+    2300022: Spike_Drone_Eye
+    2300024: Spike_Drone_Track
+    2300026: Spike_Drone_Track001
+    2300028: Spike_Drone_Track002
+    2300030: Spike_Drone_Track003
+    2300032: Spike_Drone_Track004
+    2300034: Spike_Drone_Track005
+    2300036: Spike_Drone_Track006
+    2300038: Spike_Drone_Track007
+    2300040: Spike_Drone_Track008
+    2300042: Spike_Drone_Track009
+    2300044: Spike_Drone_Track010
+    3300000: Spike
+    3300002: Spike Drone
+    3300004: Spike001
+    3300006: Spike002
+    3300008: Spike003
+    3300010: Spike004
+    3300012: Spike005
+    3300014: Spike006
+    3300016: Spike007
+    3300018: Spike008
+    3300020: Spike009
+    3300022: Spike_Drone_Eye
+    3300024: Spike_Drone_Track
+    3300026: Spike_Drone_Track001
+    3300028: Spike_Drone_Track002
+    3300030: Spike_Drone_Track003
+    3300032: Spike_Drone_Track004
+    3300034: Spike_Drone_Track005
+    3300036: Spike_Drone_Track006
+    3300038: Spike_Drone_Track007
+    3300040: Spike_Drone_Track008
+    3300042: Spike_Drone_Track009
+    3300044: Spike_Drone_Track010
+    4300000: Spike Drone
+    4300002: Spike_Drone_Track
+    4300004: Spike_Drone_Eye
+    4300006: Spike
+    4300008: Spike001
+    4300010: Spike002
+    4300012: Spike003
+    4300014: Spike004
+    4300016: Spike005
+    4300018: Spike006
+    4300020: Spike007
+    4300022: Spike008
+    4300024: Spike009
+    4300026: Spike_Drone_Track001
+    4300028: Spike_Drone_Track002
+    4300030: Spike_Drone_Track003
+    4300032: Spike_Drone_Track004
+    4300034: Spike_Drone_Track005
+    4300036: Spike_Drone_Track006
+    4300038: Spike_Drone_Track007
+    4300040: Spike_Drone_Track008
+    4300042: Spike_Drone_Track009
+    4300044: Spike_Drone_Track010
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Dummy_Detached
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
