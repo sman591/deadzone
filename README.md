@@ -6,7 +6,7 @@ The Dead Zone. Unity3D game started by Team Walrus at JAMTECH 8
 Working with Git
 -------------
 
-Don't know what all this "git" is? No worries, you're in good hands. Take a free journey to [code school](http://try.github.io/)
+Don't know what all this "git" is? No worries, you're in good hands. Take a free journey to [code school](http://try.github.io/)!
 
 Working with Unity
 -------------
