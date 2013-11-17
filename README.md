@@ -12,3 +12,8 @@ Working with Unity
 -------------
 
 Open the "The Dead Zone" directory as the project in Unity (not the root deadzone repo). Note the gitignore ignores a lot of files normally visible in a project; this is expected.
+
+Building
+-------------
+
+Builds should not be managed under version control. Exporting to the "Builds" directory will satisfy this.
