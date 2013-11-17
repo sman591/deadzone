@@ -740,7 +740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5e27b4ca0efb4217802fe3b899d65c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  LevelToLoad: FunStuff
+  LevelToLoad: Level1
 --- !u!114 &1205167851
 MonoBehaviour:
   m_ObjectHideFlags: 0
